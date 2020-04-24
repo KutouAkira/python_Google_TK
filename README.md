@@ -1,0 +1,2 @@
+# python_Google_TK
+python实现的Google翻译TK参数生成
